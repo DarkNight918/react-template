@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:DevGroupInc/open-react.git -sd="2022/03/04, 14:20:22" -nw
